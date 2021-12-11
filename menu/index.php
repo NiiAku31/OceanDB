@@ -64,14 +64,14 @@
 	<!-- Increament & Decreament JS -->
 	<script type="text/javascript" src="../javascript/quantity_inc_dec.js"></script>
 	<style>
-		body{	background-image: url("/Oceandb/dataimg/coral2.jpeg");}
+		body{	background-image: url("/OceanDB/dataimg/coral2.jpeg");}
 
 	</style>
 </head>
 <body>
 	<div class="main-menu ">
 		<div class="logo">
-		<img style ="width:100%" src="/Oceandb/new/oceanDB.jpeg" alt="Webiste Logo" class="img-fluid">
+		<img style ="width:100%" src="/OceanDB/new/oceanDB.jpeg" alt="Webiste Logo" class="img-fluid">
 		</div>
 		<div class="inner-menu sticky-top">
 		
