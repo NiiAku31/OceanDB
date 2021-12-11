@@ -60,7 +60,7 @@
 
 	<div class="main-menu">
 		<div class="logo">
-			<img src="/Oceandb/dataimg/loading.gif" alt="site logo" class="img-fluid">
+			<img src="/OceanDB/dataimg/loading.gif" alt="site logo" class="img-fluid">
 		</div>
 		<div class="inner-menu">
 			<a href="../index.php" style="float: left;">HOME</a>
