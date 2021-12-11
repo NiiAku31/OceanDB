@@ -42,7 +42,7 @@
 </head>
 <style>
 body{
-	background-image: url("/Oceandb/dataimg/coral2.jpeg");
+	background-image: url("/OceanDB/dataimg/coral2.jpeg");
 	
   margin-left: auto;
   margin-right: auto;
