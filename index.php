@@ -151,7 +151,7 @@ session_start();
                     <p class="card-text">
                        Up to date articles and news that talk about aquatic species and their impact on the environment.
                     </p>
-                    <a href="/Oceandb/new/newsblog.html" class="btn btn-primary">Read More</a>
+                    <a href="/Oceandb/new/newsblog.php" class="btn btn-primary">Read More</a>
                 </div>
               </div>
             </div> 
@@ -169,7 +169,7 @@ session_start();
                     <p class="card-text">
                        Take a peek into the world of aquariums and the diverse species each of them have. 
                     </p>
-                    <a href="/Oceandb/new/a_profiles.html" class="btn btn-primary">View</a>
+                    <a href="/Oceandb/new/a_profiles.php" class="btn btn-primary">View</a>
                 </div>
               </div>
             </div> 
