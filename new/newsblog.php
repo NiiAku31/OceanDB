@@ -21,7 +21,7 @@
    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-1 fixed-top">
     <div class="container">
       <div class="class btn">
-      <a href="/Oceandb/index.php" class="btn btn-primary " >Home</a>
+      <a href="/OceanDB/index.php" class="btn btn-primary " >Home</a>
     </div>
         <button
         class="navbar-toggler"
@@ -61,7 +61,7 @@
             <div class="card">
               <div class="content">
               <div class="card-image-wrapper">
-                <img src="/Oceandb/dataimg/dolphin.jpeg" class="card-img-top img-fluid" alt="...">
+                <img src="/OceanDB/dataimg/dolphin.jpeg" class="card-img-top img-fluid" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title">Winter, beloved star of 'Dolphon Tale', dies at Florida aqquarium</h5>
@@ -76,7 +76,7 @@
             <div class="card">
               <div class="content">
               <div class="card-image-wrapper">
-                <img src="/Oceandb/dataimg/indian.png" class="card-img-top img-fluid" alt="...">
+                <img src="/OceanDB/dataimg/indian.png" class="card-img-top img-fluid" alt="...">
               </div>
 
               <div class="card-body">
@@ -92,7 +92,7 @@
             <div class="card">
               <div class="content">
               <div class="card-image-wrapper">
-                <img src="/Oceandb/dataimg/love.png" class="card-img-top img-fluid" alt="...">
+                <img src="/OceanDB/dataimg/love.png" class="card-img-top img-fluid" alt="...">
               </div>
 
 
