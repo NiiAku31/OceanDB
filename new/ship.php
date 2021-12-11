@@ -20,7 +20,7 @@
    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-1 fixed-top">
     <div class="container">
       <div class=" btn">
-        <a href="/Oceandb/index.php" class="btn btn-primary " >Home</a>
+        <a href="/OceanDB/index.php" class="btn btn-primary " >Home</a>
       </div>
 
         <button
@@ -55,7 +55,7 @@
             <h3 class="mb-3 text-center mb-md-0">Visit Us</h3>
 
             <div class="col-md text-center">
-            <img src="/Oceandb/new/map.jpeg" class="img-fluid " style="border-radius: 30px; width:800px; height:500px " alt="">
+            <img src="/OceanDB/new/map.jpeg" class="img-fluid " style="border-radius: 30px; width:800px; height:500px " alt="">
             </div>
 
 
@@ -82,7 +82,7 @@
                 <div class="col-md ">
                     <div class="card text-dark">
                         <div class="card-image-wrapper">
-                          <img src="/Oceandb/new/bike.png" class="card-img-top img-fluid" alt="...">
+                          <img src="/OceanDB/new/bike.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="card-body text-center">
                           <h5 class="card-title">By Motorcycle</h5>
@@ -96,7 +96,7 @@
                 <div class="col-md ">
                     <div class="card text-dark">
                         <div class="card-image-wrapper">
-                          <img src="/Oceandb/new/plane.jpg" class="card-img-top img-fluid" alt="...">
+                          <img src="/OceanDB/new/plane.jpg" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="card-body text-center">
                           <h5 class="card-title">By plane</h5>
@@ -110,7 +110,7 @@
                 <div class="col-md ">
                     <div class="card text-dark">
                         <div class="card-image-wrapper">
-                          <img src="/Oceandb/new/fish.jpeg" class="card-img-top img-fluid" alt="...">
+                          <img src="/OceanDB/new/fish.jpeg" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="card-body text-center">
                           <h5 class="card-title">By Van</h5>
@@ -167,9 +167,9 @@
         <?php
 				if (isset($_SESSION['uid']))
 				{
-					?><a href="/Oceandb/menu/index.php" class="btn btn-primary btn-lg" >Place An Order</a><?php
+					?><a href="/OceanDB/menu/index.php" class="btn btn-primary btn-lg" >Place An Order</a><?php
 				}else{
-					?><a href="/Oceandb/menu/menu.php" class="btn btn-primary btn-lg" >Place An Order</a><?php
+					?><a href="/OceanDB/menu/menu.php" class="btn btn-primary btn-lg" >Place An Order</a><?php
 				}
 				?>
         </div>
