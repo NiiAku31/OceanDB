@@ -126,7 +126,7 @@ session_start();
             
             
 
-            <img class=" mt-6 img-fluid fade-in-up img-rounded w-50 d-none d-sm-block mb-4" src="/Oceandb/new/fish.jpeg" alt="">
+            <img class=" mt-6 img-fluid fade-in-up img-rounded w-50 d-none d-sm-block mb-4" src="/OceanDB/new/fish.jpeg" alt="">
         </div>
     </div>
     
@@ -151,7 +151,7 @@ session_start();
                     <p class="card-text">
                        Up to date articles and news that talk about aquatic species and their impact on the environment.
                     </p>
-                    <a href="/Oceandb/new/newsblog.php" class="btn btn-primary">Read More</a>
+                    <a href="/OceanDB/new/newsblog.php" class="btn btn-primary">Read More</a>
                 </div>
               </div>
             </div> 
@@ -169,7 +169,7 @@ session_start();
                     <p class="card-text">
                        Take a peek into the world of aquariums and the diverse species each of them have. 
                     </p>
-                    <a href="/Oceandb/new/a_profiles.php" class="btn btn-primary">View</a>
+                    <a href="/OceanDB/new/a_profiles.php" class="btn btn-primary">View</a>
                 </div>
               </div>
             </div> 
@@ -186,7 +186,7 @@ session_start();
     <div class="container">
        <div class="row align-items-center justify-content-between">
            <div class="col-md">
-               <img src="/Oceandb/dataimg/giphy.gif" class="img-fluid" alt="">
+               <img src="/OceanDB/dataimg/giphy.gif" class="img-fluid" alt="">
            </div>
            <div class="col-md p-5">
                <h2>
@@ -196,7 +196,7 @@ session_start();
                   Witness the diversification of aquatic species that are in the possession of OceanDB. These species can be aquired by any aquarium or individual by simply placing an order above.
                 </p>
               
-                <a href="/Oceandb/new/species_showcase.php" class="btm btn-light mt-3"><i class="bi bi-chevron-right"></i>Read More</a>
+                <a href="/OceanDB/new/species_showcase.php" class="btm btn-light mt-3"><i class="bi bi-chevron-right"></i>Read More</a>
            </div>
 
        </div>
@@ -215,10 +215,10 @@ session_start();
                   We have numerous ways of delivering these species to you everywhere and at anytime. This is possible via the different delivery services we provide: this includes motorcycles, trucks and even airplanes for people outside the country.
                 </p>
                 
-                <a href="/Oceandb/new/ship.php" class="btm btn-light mt-3 bg-dark text-white"><i class="bi bi-chevron-right"></i>Read More</a>
+                <a href="/OceanDB/new/ship.php" class="btm btn-light mt-3 bg-dark text-white"><i class="bi bi-chevron-right"></i>Read More</a>
            </div>
            <div class="col-md">
-            <img src="/Oceandb/dataimg/bc850fcedb45dce673057d546b0b2810.gif" class="img-fluid" alt="">
+            <img src="/OceanDB/dataimg/bc850fcedb45dce673057d546b0b2810.gif" class="img-fluid" alt="">
         </div> 
 
        </div>
@@ -418,7 +418,7 @@ session_start();
               <div>
                 <p class="text-dark h3 text-center mb-4">Visit Us</p>
               <div class="lg-6">
-                <img src="/Oceandb/new/map.jpeg" style="width:100%; border-radius: 10px; height:40%">
+                <img src="/OceanDB/new/map.jpeg" style="width:100%; border-radius: 10px; height:40%">
               </div>
               </div>
             </div>
