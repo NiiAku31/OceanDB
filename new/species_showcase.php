@@ -12,7 +12,7 @@
      
     
     
-     <link rel="stylesheet" type="text/css" href="/Oceandb/new/style.css">
+     <link rel="stylesheet" type="text/css" href="/OceanDB/new/style.css">
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
      <!--scripts-->
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -25,7 +25,7 @@
    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-1 fixed-top">
     <div class="container">
         <div class=" btn">
-            <a href="/Oceandb/index.php" class="btn btn-primary " >Home</a>
+            <a href="/OceanDB/index.php" class="btn btn-primary " >Home</a>
           </div>
      
 
@@ -43,9 +43,9 @@
         
 				if (isset($_SESSION['uid']))
 				{
-					?><a href="/Oceandb/menu/index.php" class="btn btn-primary text-center" >Place An Order</a><?php
+					?><a href="/OceanDB/menu/index.php" class="btn btn-primary text-center" >Place An Order</a><?php
 				}else{
-					?><a href="/Oceandb/menu/menu.php" class="btn btn-primary text-center" >Place An Order</a><?php
+					?><a href="/OceanDB/menu/menu.php" class="btn btn-primary text-center" >Place An Order</a><?php
 				}
 				?>
 </div>
@@ -69,13 +69,13 @@
 
          <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/1.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/1.jpg" alt="" style=width:100% > 
               
        </div>
 
        <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/10.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/10.jpg" alt="" style=width:100% > 
               
        </div>
 
@@ -91,13 +91,13 @@
 
         <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/3.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/3.jpg" alt="" style=width:100% > 
               
        </div>
 
        <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/4.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/4.jpg" alt="" style=width:100% > 
               
        </div>
 
@@ -113,13 +113,13 @@
 
             <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/6.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/6.jpg" alt="" style=width:100% > 
               
        </div>
 
        <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/5.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/5.jpg" alt="" style=width:100% > 
               
        </div>
 
@@ -135,13 +135,13 @@
 
         <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/9.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/9.jpg" alt="" style=width:100% > 
               
        </div>
 
        <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/8.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/8.jpg" alt="" style=width:100% > 
               
        </div>
 
@@ -157,13 +157,13 @@
 
         <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/7.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/7.jpg" alt="" style=width:100% > 
               
        </div>
 
        <div class="col-lg-6 ">
                
-               <img src="/Oceandb/dataimg/11.jpg" alt="" style=width:100% > 
+               <img src="/OceanDB/dataimg/11.jpg" alt="" style=width:100% > 
               
        </div>
 
@@ -171,12 +171,7 @@
         </div>
     </div>
 
-    <!-- old code in case new one doesnt work.
-         <div class="col-lg-6 ">
-               
-                   <img src="/Oceandb/dataimg/11.jpg" alt="" style=width:100% > 
-                  
-           </div>
+   
     -->
 </section>
 
