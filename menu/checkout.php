@@ -42,7 +42,7 @@
 <body>
 	<div class="main-menu sticky-top">
 		<div class="logo">
-			<img src="/Oceandb/new/oceanDB.jpeg" alt="site logo" class="img-fluid">
+			<img src="/OceanDB/new/oceanDB.jpeg" alt="site logo" class="img-fluid">
 		</div>
 		<div class="inner-menu sticky-top">
 			<a href="index.php" style="float: left;">MENU</a>
