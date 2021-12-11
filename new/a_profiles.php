@@ -21,7 +21,7 @@
    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-1 fixed-top">
     <div class="container">
         <div class="class btn">
-            <a href="/Oceandb/index.php" class="btn btn-primary " >Home</a>
+            <a href="/OceanDB/index.php" class="btn btn-primary " >Home</a>
           </div>
 
         <button
@@ -64,13 +64,13 @@
 
             <div class="col-lg-6 ">
 
-                <img src="/Oceandb/dataimg/ Georgia Aquarium, United States..jpeg" alt="" style=width:100% >
+                <img src="/OceanDB/dataimg/ Georgia Aquarium, United States..jpeg" alt="" style=width:100% >
 
         </div>
 
              <div class="col-lg-6 ">
 
-                    <img src="/Oceandb/dataimg/SEA_Aquarium,Singapore.jpeg" alt="" style=width:100% >
+                    <img src="/OceanDB/dataimg/SEA_Aquarium,Singapore.jpeg" alt="" style=width:100% >
 
             </div>
 
@@ -81,13 +81,13 @@
         <div class="row mt-4" >
             <div class="col-lg-6 ">
 
-                <img  src="/Oceandb/dataimg/okinawa churami aquarium.jpeg" alt="" style=width:100% >
+                <img  src="/OceanDB/dataimg/okinawa churami aquarium.jpeg" alt="" style=width:100% >
 
            </div>
 
             <div class="col-lg-6 ">
 
-                   <img src="/Oceandb/dataimg/Aquarium.of.Genoa.original.12235.jpg" alt="" style=width:100% >
+                   <img src="/OceanDB/dataimg/Aquarium.of.Genoa.original.12235.jpg" alt="" style=width:100% >
 
            </div>
 
